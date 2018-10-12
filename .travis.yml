@@ -1,0 +1,7 @@
+langage : python
+
+python:
+ - 3.6
+
+script:
+ - python calc_sal_code.py
