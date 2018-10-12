@@ -1,3 +1,5 @@
+# coding: utf-8
+
 def calculer_salaire(metier, xp):
     if metier == "architecte" and xp == "12":
         return "4400"
